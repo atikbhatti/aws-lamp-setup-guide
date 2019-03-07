@@ -1,5 +1,9 @@
 # Setup LAMP, on AWS EC2 (Ubuntu 18.04)
 
+_To follow this, you should have basic understanding of Linux commands as well as AWS instance creation. If so, you can easily setup LAMP on any Ubuntu based EC2 instance, by following steps below..._
+
+--------
+
 First step connect to SSH, 
 > ssh -i KEY-FILE.pem ubuntu@<PUBLIC-DNS / IP>
 
