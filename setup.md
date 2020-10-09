@@ -24,7 +24,7 @@ Once you're in console you can start by following steps to setup lamp
 ## Setup PHP (PHP7.2 is available ubuntu 18.04)
 > `sudo apt-get install php -y`
 
-> `sudo apt install -y libapache2-mod-php php-mysql`
+> `sudo apt install -y libapache2-mod-php php-mysql`php-xml php-intl
 
 ## Setup PHPMyAdmin
 > `sudo apt install -y phpmyadmin php-mbstring php-gettext`
